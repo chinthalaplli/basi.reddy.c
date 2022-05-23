@@ -1,0 +1,82 @@
+GIT COMMANDS:
+
+
+STEP 1: OPEN GIT bash terminal in working directory
+PWD -
+CD -
+CD .. - moves to previous directory
+MKDIR - make directory
+
+STEP-2: Intialize the Repository
+
+git init
+
+STEP-3: Check the status of files shown like untracked files, working dir is clean
+
+git status 
+
+STEP- 4: Adding the files shown like files which are added 
+
+git add .
+
+STEP-5: Commit the added files
+
+git commit -m ""
+
+STEP -6: Adding origin
+
+git remote add origin "HTTPS REPO link"
+
+STEP-7: idenity like who uou are ?
+
+git config --global user.name "USERNAME"
+(or)
+git config --global user.mail "mailid"
+
+STEP-8 - push the files which are commited upto now.
+
+git push
+
+if error,
+git push --set-upstream origin master.
+
+
+FOR NEXT PUSH:
+
+git status
+git add .
+git commit -m "any msg"
+git push
+
+
+
+ADVANCED COMMAND
+
+
+1.For CLONE:
+
+git clone "https link"
+
+
+2.To create git branch:
+
+git checkout -b "development"
+
+
+3. To merge: master/main with another branch
+
+git merge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
