@@ -1,0 +1,11 @@
+from selenium import webdriver
+driver = webdriver.Chrome(executable_path="C:\\chromedriver.exe")
+driver.implicitly_wait(0.5)
+driver.maximize_window()
+
+driver.get("https://www.tutorialspoint.com/selenium/selenium_automat
+ion_practice.htm")
+#to identify element
+s = driver.find_element_by_xpath("//input[@type='file']")
+#file path specified with send_keys
+s.send_keys("C:\\Users\\Pictures\\Logo.jpg")

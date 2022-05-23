@@ -1,0 +1,20 @@
+#import pytest
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+
+class TestUntitled():
+    def setup_method(self, method):
+        self.driver = webdriver.Chrome(r"C:\Users\user\Downloads\chromedriver.exe")
+        self.vars = {}
+
+
+    def test_untitled(self):
+        self.driver.get("http://127.0.0.1:8000/")
+        self.driver.find_element(By.NAME,'city').send_keys('bengaluru')
+        # self.driver.find_element(By.XPATH,).click()
+
+
+
+
+

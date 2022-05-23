@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Bus-reservation-system-in-python-django-2.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Classroom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FaceBook-Post-Django-models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flask-Netflix-Recommendation-System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Gmail-login-Django" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HOTEL-MANGEMENT-GUI-AND-NORMAL-PROGRAM-PYTHON-tkinter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Train-Reservation-System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-channels-chat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-organizations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-social-network" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/djangoproject.com" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/medicine-store-management-django" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pybluez" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/railway_reservation_system" vcs="Git" />
+  </component>
+</project>

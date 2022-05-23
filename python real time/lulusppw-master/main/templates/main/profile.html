@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block meta %}
+<title>Hello, world!</title>
+{% endblock meta %}
+
+{% block content %}
+    <a href="{% url 'main:home' %}">Click here to go to the homepage.</a>
+{% endblock content %}
