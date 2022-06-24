@@ -1,0 +1,62 @@
+	Interview Qns :
+
+1. integration testing why we do it?
+2. What is integration testing?
+3. Acceptance testing?
+4. Uat testing means?
+5. Ad hoc testing?
+6. System Testing?
+7. Agile ceremonies?
+8. Scrum master and project manager
+9. verification and validation
+10. Components of test cases
+11. Manual test cases
+12. Oops concepts
+
+13. Abstraction : 
+	(from the Latin abs, meaning away from and trahere , meaning to draw) is the process of taking away or removing characteristics from something in order to reduce it to a set of essential characteristics.
+
+14. Encapsulation :
+	Encapsulation is defined as the wrapping up of data under a single unit. It is the mechanism that binds together code and the data it manipulates. Another way to think about encapsulation is, it is a protective shield that prevents the data from being accessed by the code outside this shield.
+
+15. Polymorphism :
+	Polymorphism is one of the core concepts of object-oriented programming (OOP) and describes situations in which something occurs in several different forms. In computer science, it describes the concept that you can access objects of different types through the same interface.
+
+16. Inheritance :
+Inheritance is the practice of receiving private property, titles, debts, entitlements, privileges, rights, and obligations upon the death of an individual. The rules of inheritance differ among societies and have changed over time.
+
+17. pytest?
+	The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.
+
+
+
+5+5 = 10 is good condition
+
+
+
+ex : 5+5 = 6 negivitive test case
+
+
+
+//*[@id="touchnav-wrapper"]/header/div/div[1]/a
+
+
+
+
+
+through reading articals 
+and some websites.
+and geekfor geeks
+
+
+
+
+
+
+automation tester
+
+
+
+
+
+
